@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Swagger\\": "src"
+            "Swagger\\": "src/Swagger"
         },
         "files": ["src/functions.php"]
     },
